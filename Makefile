@@ -12,3 +12,6 @@ db-laravel:
 
 web-laravel:
 	docker-compose exec web bash
+
+app-laravel:
+	docker-compose exec app bash	
